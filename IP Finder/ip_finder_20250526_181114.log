@@ -1,0 +1,205 @@
+2025-05-26 18:11:14,985 - INFO - Log file created: ip_finder_20250526_181114.log
+2025-05-26 18:11:14,985 - INFO - Input file: .\ecs-Nat gateway.xlsx
+2025-05-26 18:11:14,985 - INFO - Reading Excel file...
+2025-05-26 18:11:15,043 - INFO - Using IP column: dstAddr
+2025-05-26 18:11:15,043 - INFO - Processing 65 IP addresses...
+2025-05-26 18:11:15,045 - INFO - Processing IP 1/65: 172.31.11.52
+2025-05-26 18:11:15,489 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:15,489 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:15,489 - INFO - Processing IP 2/65: 172.31.11.52
+2025-05-26 18:11:15,867 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:15,867 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:15,867 - INFO - Processing IP 3/65: 172.31.11.52
+2025-05-26 18:11:16,302 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:16,302 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:16,302 - INFO - Processing IP 4/65: 172.31.11.52
+2025-05-26 18:11:16,688 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:16,688 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:16,688 - INFO - Processing IP 5/65: 172.31.11.52
+2025-05-26 18:11:17,061 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:17,061 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:17,061 - INFO - Processing IP 6/65: 172.31.11.52
+2025-05-26 18:11:17,429 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:17,429 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:17,429 - INFO - Processing IP 7/65: 172.31.11.52
+2025-05-26 18:11:17,773 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:17,788 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:17,788 - INFO - Processing IP 8/65: 172.31.11.52
+2025-05-26 18:11:18,136 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:18,136 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:18,136 - INFO - Processing IP 9/65: 172.31.11.52
+2025-05-26 18:11:18,512 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:18,513 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:18,513 - INFO - Processing IP 10/65: 172.31.11.52
+2025-05-26 18:11:18,852 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:18,854 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:18,854 - INFO - Processing IP 11/65: 172.31.11.52
+2025-05-26 18:11:19,193 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:19,193 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:19,193 - INFO - Processing IP 12/65: 172.31.11.52
+2025-05-26 18:11:19,550 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:19,550 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:19,550 - INFO - Processing IP 13/65: 172.31.11.52
+2025-05-26 18:11:19,914 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:19,914 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:19,914 - INFO - Processing IP 14/65: 172.31.11.52
+2025-05-26 18:11:20,283 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:20,283 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:20,283 - INFO - Processing IP 15/65: 172.31.11.52
+2025-05-26 18:11:20,652 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:20,652 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:20,652 - INFO - Processing IP 16/65: 172.31.11.52
+2025-05-26 18:11:21,009 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:21,009 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:21,009 - INFO - Processing IP 17/65: 172.31.11.52
+2025-05-26 18:11:21,402 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:21,402 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:21,402 - INFO - Processing IP 18/65: 172.31.11.52
+2025-05-26 18:11:21,785 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:21,785 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:21,785 - INFO - Processing IP 19/65: 172.31.11.52
+2025-05-26 18:11:22,159 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:22,161 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:22,161 - INFO - Processing IP 20/65: 172.31.11.52
+2025-05-26 18:11:22,542 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:22,542 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:22,543 - INFO - Processing IP 21/65: 172.31.11.52
+2025-05-26 18:11:22,903 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:22,903 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:22,903 - INFO - Processing IP 22/65: 172.31.11.52
+2025-05-26 18:11:23,247 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:23,247 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:23,261 - INFO - Processing IP 23/65: 172.31.11.52
+2025-05-26 18:11:23,607 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:23,607 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:23,607 - INFO - Processing IP 24/65: 172.31.11.52
+2025-05-26 18:11:23,989 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:23,995 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:23,995 - INFO - Processing IP 25/65: 172.31.11.52
+2025-05-26 18:11:24,350 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:24,350 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:24,350 - INFO - Processing IP 26/65: 172.31.11.52
+2025-05-26 18:11:24,718 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:24,718 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:24,718 - INFO - Processing IP 27/65: 172.31.11.52
+2025-05-26 18:11:25,113 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:25,113 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:25,113 - INFO - Processing IP 28/65: 172.31.11.52
+2025-05-26 18:11:25,526 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:25,526 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:25,528 - INFO - Processing IP 29/65: 172.31.11.52
+2025-05-26 18:11:25,931 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:25,931 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:25,932 - INFO - Processing IP 30/65: 172.31.11.52
+2025-05-26 18:11:26,268 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:26,268 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:26,268 - INFO - Processing IP 31/65: 172.31.11.52
+2025-05-26 18:11:26,620 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:26,620 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:26,620 - INFO - Processing IP 32/65: 172.31.11.52
+2025-05-26 18:11:26,974 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:26,974 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:26,974 - INFO - Processing IP 33/65: 172.31.11.52
+2025-05-26 18:11:27,397 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:27,397 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:27,397 - INFO - Processing IP 34/65: 172.31.11.52
+2025-05-26 18:11:27,742 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:27,742 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:27,742 - INFO - Processing IP 35/65: 172.31.11.52
+2025-05-26 18:11:28,126 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:28,126 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:28,126 - INFO - Processing IP 36/65: 172.31.11.52
+2025-05-26 18:11:28,507 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:28,507 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:28,507 - INFO - Processing IP 37/65: 172.31.11.52
+2025-05-26 18:11:28,900 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:28,900 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:28,900 - INFO - Processing IP 38/65: 172.31.11.52
+2025-05-26 18:11:29,321 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:29,321 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:29,321 - INFO - Processing IP 39/65: 172.31.11.52
+2025-05-26 18:11:29,664 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:29,665 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:29,665 - INFO - Processing IP 40/65: 172.31.11.52
+2025-05-26 18:11:30,073 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:11:30,073 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:11:30,073 - INFO - Processing IP 41/65: 172.31.11.52
+2025-05-26 18:11:30,073 - INFO - Pausing for 60 seconds to avoid rate limiting...
+2025-05-26 18:12:30,522 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:30,522 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:30,522 - INFO - Processing IP 42/65: 172.31.11.52
+2025-05-26 18:12:30,884 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:30,884 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:30,884 - INFO - Processing IP 43/65: 172.31.11.52
+2025-05-26 18:12:31,270 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:31,270 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:31,285 - INFO - Processing IP 44/65: 172.31.11.52
+2025-05-26 18:12:31,704 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:31,704 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:31,704 - INFO - Processing IP 45/65: 172.31.11.52
+2025-05-26 18:12:32,094 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:32,094 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:32,094 - INFO - Processing IP 46/65: 172.31.11.52
+2025-05-26 18:12:32,487 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:32,487 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:32,487 - INFO - Processing IP 47/65: 172.31.11.52
+2025-05-26 18:12:32,853 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:32,853 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:32,853 - INFO - Processing IP 48/65: 172.31.11.52
+2025-05-26 18:12:33,250 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:33,250 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:33,250 - INFO - Processing IP 49/65: 172.31.11.52
+2025-05-26 18:12:33,604 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:33,604 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:33,604 - INFO - Processing IP 50/65: 172.31.11.52
+2025-05-26 18:12:33,953 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:33,953 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:33,953 - INFO - Processing IP 51/65: 172.31.11.52
+2025-05-26 18:12:34,300 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:34,300 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:34,300 - INFO - Processing IP 52/65: 172.31.11.52
+2025-05-26 18:12:34,686 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:34,686 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:34,686 - INFO - Processing IP 53/65: 172.31.11.52
+2025-05-26 18:12:35,062 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:35,062 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:35,062 - INFO - Processing IP 54/65: 172.31.11.52
+2025-05-26 18:12:35,470 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:35,470 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:35,470 - INFO - Processing IP 55/65: 172.31.11.52
+2025-05-26 18:12:35,853 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:35,853 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:35,853 - INFO - Processing IP 56/65: 172.31.11.52
+2025-05-26 18:12:36,227 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:36,230 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:36,230 - INFO - Processing IP 57/65: 172.31.11.52
+2025-05-26 18:12:36,582 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:36,582 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:36,582 - INFO - Processing IP 58/65: 172.31.11.52
+2025-05-26 18:12:37,020 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:37,020 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:37,020 - INFO - Processing IP 59/65: 172.31.11.52
+2025-05-26 18:12:37,431 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:37,431 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:37,432 - INFO - Processing IP 60/65: 172.31.11.52
+2025-05-26 18:12:37,786 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:37,786 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:37,786 - INFO - Processing IP 61/65: 172.31.11.52
+2025-05-26 18:12:38,190 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:38,190 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:38,190 - INFO - Processing IP 62/65: 172.31.11.52
+2025-05-26 18:12:38,559 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:38,559 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:38,560 - INFO - Processing IP 63/65: 172.31.11.52
+2025-05-26 18:12:38,915 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:38,915 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:38,915 - INFO - Processing IP 64/65: 172.31.11.52
+2025-05-26 18:12:39,316 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:39,325 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:39,325 - INFO - Processing IP 65/65: 172.31.11.52
+2025-05-26 18:12:39,689 - WARNING - Failed to retrieve details for IP 172.31.11.52: private range
+2025-05-26 18:12:39,689 - INFO - Retrieved details for 172.31.11.52: Failed to retrieve, Failed to retrieve
+2025-05-26 18:12:39,689 - INFO - Saving results to ip_details_20250526_181239.xlsx
+2025-05-26 18:12:39,750 - INFO - Applying borders to cells
+2025-05-26 18:12:39,837 - INFO - Results saved to ip_details_20250526_181239.xlsx
+2025-05-26 18:12:39,837 - INFO - Log file available at: ip_finder_20250526_181114.log
